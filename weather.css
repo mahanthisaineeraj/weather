@@ -1,0 +1,52 @@
+.container{
+    background-image:url("https://thumbs.dreamstime.com/b/weather-forecast-concept-sunny-rainy-blue-background-top-view-copy-space-weather-forecast-concept-sunny-rainy-blue-160677612.jpg");
+    background-size:cover;
+    height:100vh;
+    padding:50px;
+    text-align:center;
+}
+.input-container{
+    margin-top:120px;
+    background-color: #6ed4cf;
+    border-radius: 15px;
+    padding:30px;
+    margin:10px;
+    width: 20%;
+    margin-top: 300px;
+    margin-left: 500px;
+}
+.button{
+    background-color:blue;
+    color:white;
+    border-radius:3px;
+    border-width:0px;
+    height:30px;
+    width:60px;
+}
+.input{
+    width:200px;
+    height:30px;
+}
+.heading{
+    background-color: #d16d6d;
+    color:white;
+}
+.results-container{
+    background-color: #dbafab;
+    margin:10px;
+    display: none;
+    padding-bottom:20px;
+    width: 35%;
+    border-radius: 15px;
+    margin-left: 430px;
+}
+#span{
+    color:red;
+}
+span{
+    color:#5e0df4;
+    margin:10px;
+}
+p{
+    font-size:22px;
+}
